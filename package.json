@@ -1,0 +1,24 @@
+{
+  "name": "docker-ci-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Park-Seaweed/docker-CI-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Park-Seaweed/docker-CI-test/issues"
+  },
+  "homepage": "https://github.com/Park-Seaweed/docker-CI-test#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^3.4.4"
+  }
+}
